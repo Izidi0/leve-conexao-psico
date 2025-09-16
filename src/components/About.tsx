@@ -25,7 +25,7 @@ const About = () => {
             {/* Content */}
             <div className="order-1 lg:order-2 space-y-6 text-muted-foreground leading-relaxed">
               <p className="text-lg">
-                Sou a <strong className="text-foreground">Juliana, psicóloga</strong>, e uma das minhas paixões é ajudar pessoas a 
+                Sou <strong className="text-foreground">Juliana, psicóloga</strong>, e uma das minhas paixões é ajudar pessoas a 
                 transformarem sua relação com a comida e com o corpo. Sei o quanto é frustrante 
                 se sentir presa(o) a ciclos de dietas, culpa e compulsão — sem encontrar um 
                 caminho realmente sustentável.
