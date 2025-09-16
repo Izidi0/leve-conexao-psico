@@ -76,8 +76,7 @@ const Hero = () => {
             <Button
               onClick={handleWhatsApp}
               size="lg"
-              variant="gradient"
-              className="hover:scale-105 active:scale-95 transition-all duration-300 ease-bounce text-lg px-8 py-6 rounded-2xl shadow-card hover:shadow-floating"
+              className="bg-cta-green hover:bg-cta-green-hover text-cta-green-foreground hover:scale-105 active:scale-95 transition-all duration-300 ease-bounce text-lg px-8 py-6 rounded-2xl shadow-card hover:shadow-floating font-semibold"
             >
               <MessageCircle className="w-5 h-5 mr-2" />
               Agendar no WhatsApp

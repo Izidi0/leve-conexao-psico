@@ -42,6 +42,11 @@ export default {
           DEFAULT: "hsl(var(--whatsapp))",
           foreground: "hsl(var(--whatsapp-foreground))",
         },
+        "cta-green": {
+          DEFAULT: "hsl(var(--cta-green))",
+          foreground: "hsl(var(--cta-green-foreground))",
+          hover: "hsl(var(--cta-green-hover))",
+        },
         muted: {
           DEFAULT: "hsl(var(--muted))",
           foreground: "hsl(var(--muted-foreground))",

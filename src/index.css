@@ -49,6 +49,11 @@ Earthy, warm colors focused on trust and comfort
     /* WhatsApp Green */
     --whatsapp: 142 70% 49%;
     --whatsapp-foreground: 0 0% 100%;
+    
+    /* Modern CTA Green */
+    --cta-green: 158 64% 52%;
+    --cta-green-foreground: 0 0% 100%;
+    --cta-green-hover: 158 64% 45%;
 
     /* Borders and inputs */
     --border: 35 20% 82%;
@@ -118,6 +123,11 @@ Earthy, warm colors focused on trust and comfort
     /* WhatsApp Green */
     --whatsapp: 142 70% 49%;
     --whatsapp-foreground: 0 0% 100%;
+    
+    /* Modern CTA Green */
+    --cta-green: 158 64% 52%;
+    --cta-green-foreground: 0 0% 100%;
+    --cta-green-hover: 158 64% 45%;
 
     --border: 25 20% 20%;
     --input: 25 20% 18%;
