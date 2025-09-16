@@ -1,9 +1,9 @@
 import { Card, CardContent } from "@/components/ui/card";
-import { Heart, Scale, Brain, Target, Lightbulb } from "lucide-react";
+import { Heart, TrendingUp, Brain, Target, Lightbulb } from "lucide-react";
 
 const specialties = [
   {
-    icon: Scale,
+    icon: TrendingUp,
     title: "Obesidade e emagrecimento",
     description: "Estratégias sustentáveis para uma relação saudável com o peso"
   },
