@@ -12,7 +12,7 @@ const steps = [
     icon: Video,
     step: "2", 
     title: "Consulta presencial/online",
-    description: "Sessões via Google Meet (ou presencial), 50 minutos, sigilo e privacidade garantidos."
+    description: "Sessões via Google Meet, 50 minutos, sigilo e privacidade garantidos."
   },
   {
     icon: MessageCircle,
