@@ -45,6 +45,10 @@ Earthy, warm colors focused on trust and comfort
 
     --success: 120 35% 45%;
     --success-foreground: 35 30% 96%;
+    
+    /* WhatsApp Green */
+    --whatsapp: 142 70% 49%;
+    --whatsapp-foreground: 0 0% 100%;
 
     /* Borders and inputs */
     --border: 35 20% 82%;
@@ -110,6 +114,10 @@ Earthy, warm colors focused on trust and comfort
 
     --success: 120 40% 45%;
     --success-foreground: 35 30% 95%;
+    
+    /* WhatsApp Green */
+    --whatsapp: 142 70% 49%;
+    --whatsapp-foreground: 0 0% 100%;
 
     --border: 25 20% 20%;
     --input: 25 20% 18%;
