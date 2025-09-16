@@ -4,15 +4,15 @@ import { Quote } from "lucide-react";
 const testimonials = [
   {
     text: "Desde nossa última sessão não tenho sentido culpa nem medo de perder o controle. Aprendi a confiar no meu corpo e a fazer melhores escolhas, priorizando o equilíbrio — sem sofrer.",
-    author: "Maria S."
+    author: "M...a S."
   },
   {
     text: "Eu já tentei mil dietas e sempre desistia. Na terapia com a Ju, entendi os gatilhos que me faziam perder o controle e enfim estou conseguindo manter hábitos que antes eu não sustentava, sem me sentir presa a regras rígidas.",
-    author: "Ana P."
+    author: "A...a P."
   },
   {
     text: "A terapia com a Juliana mudou como eu enxergo meu corpo. Antes eu vivia me comparando e me sentia insuficiente. Hoje respeito meus processos e tenho mais amor comigo mesma.",
-    author: "Carolina M."
+    author: "C...a M."
   }
 ];
 
@@ -47,6 +47,10 @@ const Testimonials = () => {
             </Card>
           ))}
         </div>
+        
+        <p className="text-center text-xs text-muted-foreground/70 mt-8">
+          * Nomes alterados para proteção da privacidade dos pacientes
+        </p>
       </div>
     </section>
   );
